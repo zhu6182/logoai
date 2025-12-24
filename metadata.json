@@ -1,0 +1,7 @@
+{
+  "name": "LogoAI - 专业品牌设计师",
+  "description": "由 Gemini 2.5 Flash 驱动的世界级 Logo 设计套件。根据公司名称和经营理念生成独特的品牌标识，并支持自然语言微调。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
